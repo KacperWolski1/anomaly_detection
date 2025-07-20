@@ -26,8 +26,10 @@ The dataset is available on Kaggle:
    git clone https://github.com/KacperWolski1/anomaly_detection.git
    cd anomaly_detection
 2. Create an environment and install dependencies:
+   ```bash
    pip install -r requirements.txt
 3. Launch Jupyter Notebook:
+   ```bash
    jupyter notebook
 4. Open the notebook file and execute the cells step by step.
 
